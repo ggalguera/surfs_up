@@ -5,10 +5,12 @@ On this analysis we help surfs_up to get information about temperature trends be
 
 ## Results
 
-### Summary Table
-June Temperatures Summary Table
+### June Temperatures Summary Table
+
 ![June_Temps](https://github.com/ggalguera/surfs_up/blob/main/June_Temperature_Summary.png)
-December Temperatures Summary Table
+
+### December Temperatures Summary Table
+
 ![December_Temps](https://github.com/ggalguera/surfs_up/blob/main/December_Temperature_Summary.png)
 
 ### Main Differences
