@@ -22,7 +22,7 @@ During the analysis we detected evident differences on the month temperature
 ## Summary
 
 ### Hihg Level Summary
-Considering the Maximun and average temperatures of the two months we can conclude that Oahu remains warm for the whole year, the Standard Deviation for June is 3.26 compared with 3.75 in December this means it is pretty consistent and people would like to have an ice cream either on June or December and practice some surf on either month so I consider is a good idea to open the Surf and Shake shop as we will have customers all year around.
+Considering the Maximun and average temperatures of the two months we can conclude that Oahu remains warm for the whole year, the Standard Deviation for June is 3.26 compared with 3.75 in December this means it is pretty consistent and people would like to have an ice cream and practice some surf on eithe on June or December. I consider it is a good idea to open the Surf and Shake shop as we will have customers all year around.
 
 ### Aditional Queries
 * And aditional query cold be to compare Year Over Year Temperatures and detecte any possible trend.
