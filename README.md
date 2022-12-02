@@ -13,14 +13,14 @@ December Temperatures Summary Table
 
 ### Main Differences
 During the analysis we detected evident differences on the month temperature
-* Average Temperature is 74.94 degrees for June compared with 71.04 degrees for December, 3.9 degrees of difference that does not represent a big variation.
-* Maximun Temperature is 85 degrees for June versus 83 degrees for December, for this case the variation is only 2 degrees that shows that Oahu remain warm during the whole year.
-* Minimun Temperature for June was 64 compared with 56 degrees in December, here is where we have the main difference, mainly caused by some chilli nights over the winter.
+* The average Temperature for June is 74.94 degrees compared with 71.04 degrees for December, 3.9 degrees of difference that we can say is due to the season variation.
+* The maximun Temperature is 85 degrees for June versus 83 degrees for December, for this case the variation is 2 degrees that shows that Oahu remain warm during the whole year.
+* The minimun Temperature for June is 64 compared with 56 degrees in December, here is where we have the main difference, mainly caused by some chill nights over the winter.
 
 ## Summary
 
 ### Hihg Level Summary
-Considering the Maximun and average temperatures over the two months we can conclude that Oahu remains warm for the whole year, the Standard Deviation for June is 3.26 compared with 3.75 in December this means it is pretty consistent and people would like to have an ice cream either on June or December and practice some surf on either month.
+Considering the Maximun and average temperatures of the two months we can conclude that Oahu remains warm for the whole year, the Standard Deviation for June is 3.26 compared with 3.75 in December this means it is pretty consistent and people would like to have an ice cream either on June or December and practice some surf on either month so I consider is a good idea to open the Surf and Shake shop as we will have customers all year around.
 
 ### Aditional Queries
 * And aditional query cold be to compare Year Over Year Temperatures and detecte any possible trend.
